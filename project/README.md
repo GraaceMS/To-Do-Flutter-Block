@@ -9,12 +9,6 @@ Esse aplicativo de tarefas simples foi desenvolvido com Flutter e faz uso de Blo
 - flutter_swipe_action_cell: Pacote utilizado para implementar a funcionalidade de deslizar os itens da lista e executar ações, como excluir uma tarefa.
 - Path Provider: Usado em conjunto com o HydratedBloc para gerenciar a persistência dos dados no armazenamento local do dispositivo.
 
-## Como Rodar o Aplicativo
-
-- git clone https://github.com/seu_usuario/seu_repositorio.git
-- flutter pub get
-- flutter run
-
 ## Imagens 
 
 - <img width="400" alt="image" src="https://github.com/user-attachments/assets/5c343db7-cf09-4f0e-92c2-3ec720457517">
