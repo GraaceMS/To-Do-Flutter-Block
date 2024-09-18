@@ -140,26 +140,17 @@ class _HomeScreenState extends State<HomeScreen> {
                 itemBuilder: (context, int i) {
                   return SwipeActionCell(
                     key: ValueKey(state.todos[i]),
-
-                    // Definindo as ações ao deslizar
                     trailingActions: <SwipeAction>[
                       SwipeAction(
                         title: "Delete",
                         onTap: (CompletionHandler handler) async {
-                          // Remover o item
                           removeTodo(state.todos[i]);
-
-                          // Garantir que a animação de deslizar termine
                           await handler(true);
-
-                          // Reconstruir a tela para refletir a exclusão
                           setState(() {});
                         },
                         color: const Color(0xFFFE4A49),
                       ),
                     ],
-
-                    // Conteúdo da célula (o item da lista)
                     child: Card(
                       color: Theme.of(context).colorScheme.primary,
                       elevation: 1,
