@@ -33,7 +33,7 @@ flutter run
 ##
 <img width="403" alt="image" src="https://github.com/user-attachments/assets/d65ee2c6-c41d-412f-9b2b-725ed76b2caa">
 ##
-<img width="722" alt="image" src="https://github.com/user-attachments/assets/1f49df83-2c2f-4e9d-b188-8de8b0d0099b">
+
 
 
 
