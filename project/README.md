@@ -1,8 +1,5 @@
-# project
 
-A new Flutter project.
-
-## Getting Started
+## Project Flutter
 
 Esse aplicativo de tarefas simples foi desenvolvido com Flutter e faz uso de Bloc para o gerenciamento de estado e persistência de dados. Além disso, utilizei o pacote flutter_swipe_action_cell para permitir que o usuário exclua tarefas ao deslizar os itens da lista.
 
