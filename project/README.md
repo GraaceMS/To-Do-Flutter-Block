@@ -14,25 +14,19 @@ Esse aplicativo de tarefas simples foi desenvolvido com Flutter e faz uso de Blo
 
 ## Como Rodar o Aplicativo
 
-git clone https://github.com/seu_usuario/seu_repositorio.git
-flutter pub get
-flutter run
+- git clone https://github.com/seu_usuario/seu_repositorio.git
+- flutter pub get
+- flutter run
 
 ## Imagens 
 
-## 
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/5c343db7-cf09-4f0e-92c2-3ec720457517">
-##
-<img width="398" alt="image" src="https://github.com/user-attachments/assets/93d5a5a8-0ce4-4a76-9e05-6a0737fa356a">
-##
-<img width="408" alt="image" src="https://github.com/user-attachments/assets/15d1deee-a08d-4d61-8255-9e4d8e8be153">
-##
-<img width="401" alt="image" src="https://github.com/user-attachments/assets/96a8f45d-db92-4769-a295-7053d62c6263">
-##
-<img width="405" alt="image" src="https://github.com/user-attachments/assets/d7d1527f-62ac-47db-9930-f067d6e695c3">
-##
-<img width="403" alt="image" src="https://github.com/user-attachments/assets/d65ee2c6-c41d-412f-9b2b-725ed76b2caa">
-##
+- <img width="400" alt="image" src="https://github.com/user-attachments/assets/5c343db7-cf09-4f0e-92c2-3ec720457517">
+- <img width="398" alt="image" src="https://github.com/user-attachments/assets/93d5a5a8-0ce4-4a76-9e05-6a0737fa356a">
+- <img width="408" alt="image" src="https://github.com/user-attachments/assets/15d1deee-a08d-4d61-8255-9e4d8e8be153">
+- <img width="401" alt="image" src="https://github.com/user-attachments/assets/96a8f45d-db92-4769-a295-7053d62c6263">
+- <img width="405" alt="image" src="https://github.com/user-attachments/assets/d7d1527f-62ac-47db-9930-f067d6e695c3">
+- <img width="403" alt="image" src="https://github.com/user-attachments/assets/d65ee2c6-c41d-412f-9b2b-725ed76b2caa">
+
 
 
 
